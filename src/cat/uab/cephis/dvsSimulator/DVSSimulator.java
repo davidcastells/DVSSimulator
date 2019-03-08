@@ -57,7 +57,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Nehon
+ * @author dcr
  */
 public class DVSSimulator  extends SimpleApplication {
 
