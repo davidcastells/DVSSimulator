@@ -17,8 +17,6 @@
 
 package cat.uab.cephis.dvsSimulator;
 
-import com.jme3.math.Vector3f;
-import com.jme3.post.FilterPostProcessor;
 import com.jme3.post.SceneProcessor;
 import com.jme3.profile.AppProfiler;
 import com.jme3.renderer.RenderManager;
@@ -31,13 +29,10 @@ import com.jme3.util.BufferUtils;
 import com.jme3.util.Screenshots;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.imageio.ImageIO;
 
 /**
  *
