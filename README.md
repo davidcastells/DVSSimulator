@@ -24,5 +24,6 @@ This is part of research publication. We will be happy if you cite our paper
 
 >David Castells-Rufas, Jordi Carrabina. "OpenCL-based FPGA accelerator for disparity map generation with stereoscopic event cameras". In Proceedings of the International Workshop on High Performance Energy-Efficient Embedded Systems (HIP3ES) 2019. Valencia, Spain.
 
+Available in Arxiv https://arxiv.org/ftp/arxiv/papers/1903/1903.03509.pdf
 
  
